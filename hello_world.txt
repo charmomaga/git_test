@@ -38,5 +38,11 @@ git commit -m "Edit README.md and hello_world.txt"
 git status
 (nothing to commit)
 
+git push (or git push origin main)
+
+* basic git syntax = program | action | destination
+
+
+
 
 
