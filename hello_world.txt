@@ -1,1 +1,42 @@
 The Odin Project Jan 10, 2023 Tuesday
+git --version
+git config --global init.defaultBranch main
+
+github > create new repo
+= name(git_test), description, public, add README file
+
+code > ssh > copy link
+
+mkdir repos
+cd repos
+
+git clone link (connect repo to local machine)
+cd git_test/ (to test)
+git remote -version
+
+touch hello_world.txt (create new file in git_test folder)
+git status
+(file shown in red = not staged)
+
+git add hello_world.txt (add to staging area)
+git status
+(file in green = staged)
+git commit -m "Add hello_world.txt"
+git status
+(nothing to commit)
+git log
+
+open README in VSC
+save
+git status
+(changes not staged)
+git add <filename>
+git status
+git add . (add all files to staging area)
+git status
+git commit -m "Edit README.md and hello_world.txt"
+git status
+(nothing to commit)
+
+
+
