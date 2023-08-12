@@ -163,7 +163,7 @@ touch hello_world.txt
 git status
 ```
 
-> If file is shown in red = not staged
+-   If file is shown in red = not staged
 
 3. Add file to staging area in Git
 
