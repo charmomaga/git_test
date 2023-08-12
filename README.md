@@ -1,12 +1,16 @@
 The Odin Project
+
 Started: Jan 10, 2023 Tuesday
+
 Updated: Sat Aug 12, 2023
 
 # Setting up Git
 
 ## Step 1: Install Git on MacOS
 
-### Step 1.0: Install Homebrew after meeting the [requirements] (https://docs.brew.sh/Installation#macos-requirements)
+### Step 1.0: Install Homebrew
+
+After meeting the [requirements] (https://docs.brew.sh/Installation#macos-requirements)
 
 ### Step 1.1: Update Git to latest version
 
