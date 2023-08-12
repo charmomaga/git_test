@@ -163,7 +163,7 @@ touch hello_world.txt
 git status
 ```
 
-    - If file is shown in red = not staged
+> If file is shown in red = not staged
 
 3. Add file to staging area in Git
 
@@ -175,7 +175,7 @@ git add hello_world.txt
 git status
 ```
 
-    * If file is green = staged
+> If file is green = staged
 
 4. Commit
 
@@ -184,7 +184,7 @@ git commit -m "Add hello_world.txt"
 git status
 ```
 
-    * Output should say = nothing to commit...
+> Output should say = nothing to commit...
 
 5. Check entry for commit
 
