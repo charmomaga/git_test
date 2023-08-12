@@ -196,7 +196,7 @@ git log
 
 1. Open file in VSC
 2. Edit file and Save
-3. Open terminal in VSC by pressing <kbd>ctrl<kbd> + <kbd>`<kbd>
+3. Open terminal in VSC by pressing <kbd>ctrl</kbd> + <kbd>`</kbd>
 
 ```
 git status (red = changes not staged)
