@@ -1,6 +1,6 @@
 The Odin Project
 
-Started: Jan 10, 2023 Tuesday
+Started: Tue Jan 10, 2023
 
 Updated: Sat Aug 12, 2023
 
