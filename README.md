@@ -177,7 +177,7 @@ git status
 
 If file is green = staged
 
-4. commit
+4. Commit
 
 ```
 git commit -m "Add hello_world.txt"
@@ -212,4 +212,4 @@ git push (or git push origin main)
 git status (branch up to date)
 ```
 
--   basic git syntax = program | action | destination
+> Basic git syntax = program | action | destination
