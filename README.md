@@ -1,9 +1,3 @@
-The Odin Project
-
-Started: Tue Jan 10, 2023
-
-Updated: Sat Aug 12, 2023
-
 # Setting up Git
 
 ## Step 1: Install Git on MacOS
@@ -213,3 +207,7 @@ git status (branch up to date)
 ```
 
 > Basic git syntax = program | action | destination
+
+_Source: The Odin Project
+Created: 2023-01-10
+Changed: 2023-08-12_
