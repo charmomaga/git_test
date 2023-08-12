@@ -12,6 +12,10 @@ Updated: Sat Aug 12, 2023
 
 After meeting the [requirements](https://docs.brew.sh/Installation#macos-requirements)
 
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 ### Step 1.1: Update Git to latest version
 
 ```
