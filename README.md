@@ -10,7 +10,7 @@ Updated: Sat Aug 12, 2023
 
 ### Step 1.0: Install Homebrew
 
-After meeting the [requirements] (https://docs.brew.sh/Installation#macos-requirements)
+After meeting the [requirements](https://docs.brew.sh/Installation#macos-requirements)
 
 ### Step 1.1: Update Git to latest version
 
