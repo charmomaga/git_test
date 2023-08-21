@@ -208,6 +208,4 @@ git status (branch up to date)
 
 > Basic git syntax = program | action | destination
 
-_Source: The Odin Project  
-Created: 2023-01-10  
-Changed: 2023-08-12_
+_Source: The Odin Project_
